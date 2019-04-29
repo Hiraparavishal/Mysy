@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mysy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">second</string>
+    <string name="title_activity_new1">new1</string>
+    <string name="title_activity_renew">renew</string>
+    <string name="title_activity_form">form</string>
+    <string name="title_activity_reward">reward</string>
+    <string name="title_activity_helpcenter">Map</string>
+    <string name="title_activity_data">Data</string>
+    <string name="title_activity_hu">hu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_splace">splace</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vishal.mysy">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/download"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".splace"
+            android:label="@string/title_activity_splace"
+            android:theme="@style/AppTheme1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Data"
+            android:label="@string/title_activity_data"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Agri_list" />
+        <activity android:name=".Engineering_list" />
+        <activity android:name=".Ayurveda_list" />
+        <activity android:name=".Medical_list" />
+        <activity android:name=".district_list" />
+        <activity android:name=".HelpcenterChoice" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".helpcenter"
+            android:label="@string/title_activity_helpcenter" />
+        <activity
+            android:name=".second"
+            android:label="@string/title_activity_second"
+            android:theme="@style/AppTheme1" />
+        <activity
+            android:name=".new1"
+            android:label="@string/title_activity_new1"
+            android:theme="@style/AppTheme1" />
+        <activity
+            android:name=".renew"
+            android:label="@string/title_activity_renew"
+            android:theme="@style/AppTheme1" />
+        <activity
+            android:name=".form"
+            android:label="@string/title_activity_form"
+            android:theme="@style/AppTheme1" />
+        <activity
+            android:name=".reward"
+            android:label="@string/title_activity_reward"
+            android:theme="@style/AppTheme1" />
+        <activity android:name=".showform" />
+        <activity android:name=".web" />
+        <activity android:name=".pass" />
+    </application>
+
+</manifest>

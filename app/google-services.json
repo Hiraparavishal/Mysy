@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "29117716886",
+    "firebase_url": "https://mysyapp-4354a.firebaseio.com",
+    "project_id": "mysyapp-4354a",
+    "storage_bucket": "mysyapp-4354a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29117716886:android:d311f472fdbf4d80",
+        "android_client_info": {
+          "package_name": "com.example.vishal.mysy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29117716886-ubeudep4mg8p7cc7jipq9i7j0vulbej3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcHHY-hjVgZ2indvQHSrfysHA2OfVotUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
