@@ -17,7 +17,7 @@
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity
             android:name=".splace"
-            android:label="@string/title_activity_splace"
+            android:label="MYSY"
             android:theme="@style/AppTheme1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -20,6 +20,7 @@ public class splace extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         toolbar.setTitle("");
         setSupportActionBar(toolbar);
+        getSupportActionBar().hide();
 
         new Handler().postDelayed(new Runnable() {
             @Override
@@ -27,6 +28,7 @@ public class splace extends AppCompatActivity {
 
             Intent i1=new Intent(splace.this,MainActivity.class);
             startActivity(i1);
+            finish();
             }
         },TIME);
 

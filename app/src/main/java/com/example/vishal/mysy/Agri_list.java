@@ -13,12 +13,12 @@ public class Agri_list extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_agri_list);
         /*Anand Agriculture Univercity,hadgood,aau campus,anand
-S.D.Agriculture univercity Dantiwada,Banaskantha
-Kamdhenu university,karmayogibhavan,Block-1,b1 wing, sectore10a,gandhinagar
-junagadh agricultural univercity,junagadh
-navsari Agriculture univercity,dandi road,navsari
-polytechnic in animal husbandary,ku,mehtapura,himmatnagar
-govt.akhandanand ayurveda colege,bhadra rd,bhadra*/
+        S.D.Agriculture univercity Dantiwada,Banaskantha
+        Kamdhenu university,karmayogibhavan,Block-1,b1 wing, sectore10a,gandhinagar
+        junagadh agricultural univercity,junagadh
+        navsari Agriculture univercity,dandi road,navsari
+        polytechnic in animal husbandary,ku,mehtapura,himmatnagar
+        govt.akhandanand ayurveda colege,bhadra rd,bhadra*/
 
         ArrayList<String> list=new ArrayList<>();
 
