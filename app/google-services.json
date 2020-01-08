@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "29117716886",
-    "firebase_url": "https://mysyapp-4354a.firebaseio.com",
-    "project_id": "mysyapp-4354a",
-    "storage_bucket": "mysyapp-4354a.appspot.com"
+    "project_number": "xyz",
+    "firebase_url": "xyz",
+    "project_id": "xyz",
+    "storage_bucket": "xyz"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:29117716886:android:d311f472fdbf4d80",
+        "mobilesdk_app_id": "1:xyz",
         "android_client_info": {
           "package_name": "com.example.vishal.mysy"
         }
       },
       "oauth_client": [
         {
-          "client_id": "29117716886-ubeudep4mg8p7cc7jipq9i7j0vulbej3.apps.googleusercontent.com",
+          "client_id": "2xyz",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCcHHY-hjVgZ2indvQHSrfysHA2OfVotUQ"
+          "current_key": "xyz"
         }
       ],
       "services": {
